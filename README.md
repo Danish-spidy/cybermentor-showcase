@@ -26,7 +26,7 @@ Beginners juggle 5 different apps and YouTube channels. CyberMentor Elite is the
 
 ## Demo
 
-<video src="https://github.com/Danish-spidy/cybermentor-showcase/raw/main/demo/CYBERMENTOR_demo.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/c1daa4f2-b34a-4002-bbeb-762a62b67831
 
 ![CyberMentor hero](docs/hero.png)
 
